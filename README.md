@@ -5,12 +5,15 @@ Hi! I'm İrem, a game developer focused on Unity, UI mechanics, and player inter
 
 This repository is my portfolio showcasing the projects I’ve worked on and my contributions.
 
+Please also check: (https://gitlab.com/irembuyuksahin6)
+
 ---
 
 # My Projects
 
----
 
+---
+Repository Access: (https://bitbucket.org/gameprojects_irembuyuksahin/workspace/projects/)
 ## Gaste Budur  
 **Graduation Project**  
 03.2025 – 06.2025  | Unity | C#

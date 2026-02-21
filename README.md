@@ -57,7 +57,6 @@ A game project inspired by Haunt the House. I was responsible for gameplay mecha
 
 # Things and Projects I'm Currently Working On
 
-- Code architecture patterns (SOLID principles)
 - An isometric mobile puzzle game 
 
 ---

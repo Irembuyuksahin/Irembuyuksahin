@@ -5,15 +5,12 @@ Hi! I'm İrem, a game developer focused on Unity, UI mechanics, and player inter
 
 This repository is my portfolio showcasing the projects I’ve worked on and my contributions.
 
-Please also check: (https://gitlab.com/irembuyuksahin6)
-
 ---
 
 # My Projects
 
 
 ---
-Repository Access: (https://bitbucket.org/gameprojects_irembuyuksahin/workspace/projects/)
 ## Gaste Budur  
 **Graduation Project**  
 03.2025 – 06.2025  | Unity | C#
@@ -52,12 +49,6 @@ A game project inspired by Haunt the House. I was responsible for gameplay mecha
 - Implemented a bar fill/decay system to control possession duration  
 - Implemented the victory screen and additional UI panels  
 - Developed the Ghost Vision bar mechanics and the system controlling environmental light activation/deactivation  
-
----
-
-# Things and Projects I'm Currently Working On
-
-- An isometric mobile puzzle game 
 
 ---
 
